@@ -18,10 +18,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="PrathameshPawar-SDET" height="40" width="40" />  
-<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />  
+<img align="center" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://jmeter.apache.org/images/jmeter_square.svg" alt="PrathameshPawar-SDET" height="40" width="40" />
-<img align="center" src="https://jmeter.apache.org/images/jmeter_square.svg" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/?size=100&id=77694&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
   
 </p>
 <h3 align="left">Connect with me:</h3>
