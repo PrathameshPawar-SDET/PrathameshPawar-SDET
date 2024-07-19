@@ -6,6 +6,9 @@
 - I am a software tester with expertise in web application testing, mobile app testing (Android/iOS), manual and automation testing, API testing, security/penetration testing, and database testing.
 - I have experience in creating collaboration between developers and clients, preparing test cases, managing user stories, reporting bugs, and handling inbound load testing.
 - I am passionate about staying up-to-date with the latest testing tools and methodologies to deliver high-quality software solutions.
+- I regularly write articles on [https://testingmint.com/](https://testingmint.com/)
+- How to reach me **pawarprathamesh62@gmail.com**
+- Know about my experiences [https://www.linkedin.com/in/prathamesh-pawar-sdet/](https://www.linkedin.com/in/prathamesh-pawar-sdet/)
 
 <h3 align="left">Skills:</h3>
 
