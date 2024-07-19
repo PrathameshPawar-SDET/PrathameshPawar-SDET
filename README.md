@@ -17,7 +17,8 @@
 - Database Testing
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="PrathameshPawar-SDET" height="30" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="PrathameshPawar-SDET" height="40" width="40" />
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/prathamesh-pawar-sdet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PrathameshPawar-SDET" height="30" width="40" /></a>
