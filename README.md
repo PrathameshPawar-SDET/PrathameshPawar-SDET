@@ -26,8 +26,8 @@
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAVodsPGOJDpo7FF6UZl_FbIwSCQ2m6ZSMg&s" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" /> 
 <img align="center" src="https://img.icons8.com/?size=100&id=B3VgW5sZRz8U&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
-
-  
+<img align="center" src="https://www.componence.in/jira/images/atlassian-jira-logo-large.png" alt="PrathameshPawar-SDET" height="40" width="80" />
+<img align="center" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/prathamesh-pawar-sdet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PrathameshPawar-SDET" height="30" width="40" /></a>
