@@ -21,6 +21,8 @@
 <img align="center" src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />  
 <img align="center" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://jmeter.apache.org/images/jmeter_square.svg" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img align="center" src="https://mms.businesswire.com/media/20230322005274/en/761650/23/postman-logo-vert-2018.jpg" alt="PrathameshPawar-SDET" height="40" width="60" />
+  
 <img align="center" src="https://img.icons8.com/?size=100&id=77694&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
   
 </p>
