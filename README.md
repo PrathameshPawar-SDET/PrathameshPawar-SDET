@@ -27,9 +27,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img align="center" src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />  
-<img align="center" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img align="center" src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" /> 
+<img align="center" src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://mms.businesswire.com/media/20230322005274/en/761650/23/postman-logo-vert-2018.jpg" alt="PrathameshPawar-SDET" height="40" width="80" />
+<img align="center" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png" alt="PrathameshPawar-SDET" height="40" width="80" />
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAVodsPGOJDpo7FF6UZl_FbIwSCQ2m6ZSMg&s" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" /> 
@@ -38,7 +39,7 @@
 <img align="center" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://jmeter.apache.org/images/jmeter_square.svg" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
-<img align="center" src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="PrathameshPawar-SDET" height="40" width="40" />
+
   
 </p>
 
