@@ -38,6 +38,7 @@
 <img align="center" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://jmeter.apache.org/images/jmeter_square.svg" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img align="center" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img align="center" src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="PrathameshPawar-SDET" height="40" width="40" />
   
 </p>
 
