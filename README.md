@@ -50,5 +50,5 @@
   - Website Pentesing and Bug Bounty Hunting 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/prathamesh-pawar-sdet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="PrathameshPawar-SDET" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prathamesh-pawar-sdet/" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text-thumbnail.png" alt="PrathameshPawar-SDET" height="30" width="40" /></a>
 
