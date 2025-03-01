@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img title="Selenium" align="center" src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" /> 
-<img title="TestNG" align="center" src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img title="TestNG" align="center" src="https://qatestlab.com/assets/Uploads/testng1.png" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img title="Java" align="center" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img title="Postman" align="center" src="https://mms.businesswire.com/media/20230322005274/en/761650/23/postman-logo-vert-2018.jpg" alt="PrathameshPawar-SDET" height="40" width="80" />
 <img title="REST Assured" align="center" src="https://rest-assured.io/img/logo-transparent.png" alt="PrathameshPawar-SDET" height="40" width="40" />
