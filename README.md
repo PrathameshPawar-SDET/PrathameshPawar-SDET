@@ -28,9 +28,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img title="Selenium" align="center" src="https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" /> 
-<img title="TestNG" align="center" src="https://qatestlab.com/assets/Uploads/testng1.png" alt="PrathameshPawar-SDET" height="40" width="40" />
+<img title="TestNG" align="center" src="https://qatestlab.com/assets/Uploads/testng1.png" alt="PrathameshPawar-SDET" height="40" width="70" />
 <img title="Java" align="center" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="PrathameshPawar-SDET" height="40" width="40" />
-<img title="Postman" align="center" src="https://mms.businesswire.com/media/20230322005274/en/761650/23/postman-logo-vert-2018.jpg" alt="PrathameshPawar-SDET" height="40" width="80" />
+<img title="Postman" align="center" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="PrathameshPawar-SDET" height="40" width="80" />
 <img title="REST Assured" align="center" src="https://rest-assured.io/img/logo-transparent.png" alt="PrathameshPawar-SDET" height="40" width="40" />
 <img title="BurpSuite" align="center" src="https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png" alt="PrathameshPawar-SDET" height="40" width="80" />
 <img title="Owasp-Zap" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAVodsPGOJDpo7FF6UZl_FbIwSCQ2m6ZSMg&s" alt="PrathameshPawar-SDET" height="40" width="40" />
